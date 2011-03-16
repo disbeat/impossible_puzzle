@@ -1,4 +1,12 @@
+LEFT = 0
+DOWN = 1
+RIGHT = 2
+UP = 3
 
+UP_LEFT = 0
+DOWN_LEFT = 1
+DOWN_RIGHT = 2
+UP_RIGHT = 3
 
 class Piece( object ):
 	n_sides = 4
@@ -17,55 +25,55 @@ class Piece( object ):
 	def __repr__(self):
 		return str(self.pid)
 		
-	def left(self):
-		return ( self.parts[ self.orientation ], self.parts[ (self.orientation + 1) % self.n_sides ] )
-	
-	def down(self):
-		return ( self.parts[ (self.orientation + 1) % self.n_sides ], self.parts[ (self.orientation + 2) % self.n_sides ] )
-	
-	def right(self):
-		return ( self.parts[ (self.orientation + 2) % self.n_sides ], self.parts[ (self.orientation + 3) % self.n_sides ] )
-	
-	def up(self):
-		return ( self.parts[ (self.orientation + 3) % self.n_sides ], self.parts[ (self.orientation + 4) % self.n_sides ] )
-		
 	def sides(self):
-		return [ self.left(), self.down(), self.right(), self.up() ]
+		return [ self.side(i) for i in range(self.n_sides) ]
+		
+	def side(self, i):
+		return ( self.parts[ (self.orientation + i) % self.n_sides ], self.parts[ (self.orientation + i + 1) % self.n_sides ] )
+		
+	def corners(self):
+		return [ self.corner(i) for i in range(self.n_sides) ]
+	
+	def corner(self, i):
+		return ( self.parts[ (self.orientation + i - 1) % self.n_sides ], \
+				 self.parts[ (self.orientation + i) % self.n_sides ], 	 \
+				 self.parts[ (self.orientation + i + 1) % self.n_sides ] )
 		
 	def rotate(self, times = 1):
 		self.orientation = ( self.orientation + times ) % self.n_sides
 		
-	def make_left(self, side):
-		self.orientation = self.parts.index(side[0])
+	def positionate_side(self, target_side, target_direction):
+		self.orientation = (self.parts.index(target_side[0]) - target_direction ) % self.n_sides
 	
-	def make_down(self, side):
-		self.orientation = ( self.parts.index(side[0]) - 1 ) % self.n_sides
-	
-	def make_right(self, side):
-		self.orientation = ( self.parts.index(side[0]) - 2 ) % self.n_sides
+	def positionate_corner(self, target_corner, target_direction):
+		self.orientation = (self.parts.index(target_corner[1]) - target_direction ) % self.n_sides
 		
-	def make_up(self, side):
-		self.orientation = ( self.parts.index(side[0]) - 3 ) % self.n_sides
-
 	def match_sides(self, self_side, target_side):
 		return self_side[1] == target_side[0] and self_side[0] == target_side[1]
 	
 
 def test():
 
-	p = Piece( [0, 1, 2, 3] )
+	p = Piece( [0, 1, 2, 3], 0 )
 	
-	print p.left()
-	print p.down()
-	print p.right()
-	print p.up()
 	print p.sides()
 	
 	p.rotate(2)
 	
 	print p.sides()
 	
-	p.make_down( (0,1) )
+	p.positionate_side( (0,1), UP )
+	print p.sides()
+	
+	p.positionate_corner( (0,1,2), DOWN_RIGHT )
+	print p.corners()
+	
+	print p.side( LEFT )
+	
+	p.positionate_corner( (0,1,2), UP_LEFT )
+	print p.corners()
+	
+	p.positionate_side( (0,1), LEFT )
 	print p.sides()
 	
 if __name__ == "__main__":
