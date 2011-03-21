@@ -107,7 +107,7 @@ def create_rows( solution, cur, restriction = None ):
 	side = (side[1], side[0])
 
 	if restriction:
-		side = ( restriction[len(cur)].side( DOWN )[1], side[0], side[1] )
+		side = ( side[0], side[1], restriction[len(cur)].side( DOWN )[0] )
 	
 	try:
 		avail = deepcopy( available_pieces[side] )

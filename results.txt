@@ -2,506 +2,506 @@
  CURRENT PIECE: 0 
 
 
-2011-03-16 16:41:58.255000 - Tested Piece: 0 with POSITION: 1. Total Pieces achieved: 20
-2011-03-16 16:42:01.513000 - Tested Piece: 0 with POSITION: 2. Total Pieces achieved: 25
-2011-03-16 16:42:05.534000 - Tested Piece: 0 with POSITION: 3. Total Pieces achieved: 26
-2011-03-16 16:42:08.383000 - Tested Piece: 0 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:24:45.251000 - Tested Piece: 0 with POSITION: 1. Total Pieces achieved: 21
+2011-03-18 18:24:50.098000 - Tested Piece: 0 with POSITION: 2. Total Pieces achieved: 23
+2011-03-18 18:24:55.579000 - Tested Piece: 0 with POSITION: 3. Total Pieces achieved: 27
+2011-03-18 18:24:58.752000 - Tested Piece: 0 with POSITION: 4. Total Pieces achieved: 22
 
  CURRENT PIECE: 1 
 
 
-2011-03-16 16:42:09.355000 - Tested Piece: 1 with POSITION: 1. Total Pieces achieved: 19
+2011-03-18 18:24:59.715000 - Tested Piece: 1 with POSITION: 1. Total Pieces achieved: 20
 ========== PRINTING SOLUTION ============
-[(7, 3), (3, 1), (1, 2), (2, 5), (5, 6), (6, 7)]
-[(4, 6), (6, 5), (5, 3), (3, 4), (4, 1), (1, 4)]
+[(4, 7), (5, 4), (4, 5), (6, 4), (1, 6), (7, 1)]
+[(6, 3), (2, 6), (3, 2), (2, 3), (4, 2), (3, 4)]
 
-[(4, 6), (6, 5), (5, 3), (3, 4), (4, 1), (1, 4)]
-[(5, 2), (2, 1), (1, 2), (2, 6), (6, 3), (3, 2)]
+[(6, 3), (2, 6), (3, 2), (2, 3), (4, 2), (3, 4)]
+[(5, 1), (1, 5), (6, 1), (5, 6), (1, 5), (5, 1)]
 
-[(5, 2), (2, 1), (1, 2), (2, 6), (6, 3), (3, 2)]
-[(4, 3), (3, 6), (6, 4), (4, 1), (1, 5), (5, 7)]
+[(5, 1), (1, 5), (6, 1), (5, 6), (1, 5), (5, 1)]
+[(3, 2), (2, 3), (4, 2), (3, 4), (6, 3), (2, 6)]
 
-[(4, 3), (3, 6), (6, 4), (4, 1), (1, 5), (5, 7)]
-[(6, 2), (2, 5), (5, 3), (3, 2), (2, 4), (4, 2)]
+[(3, 2), (2, 3), (4, 2), (3, 4), (6, 3), (2, 6)]
+[(4, 5), (6, 4), (1, 6), (2, 1), (5, 2), (4, 5)]
 
-[(6, 2), (2, 5), (5, 3), (3, 2), (2, 4), (4, 2)]
-[(1, 4), (4, 1), (1, 6), (6, 5), (5, 3), (3, 1)]
+[(4, 5), (6, 4), (1, 6), (2, 1), (5, 2), (4, 5)]
+[(1, 6), (3, 1), (5, 3), (4, 5), (3, 4), (6, 3)]
 
-[(1, 4), (4, 1), (1, 6), (6, 5), (5, 3), (3, 1)]
-[(7, 3), (3, 5), (5, 2), (2, 4), (4, 6), (6, 7)]
+[(1, 6), (3, 1), (5, 3), (4, 5), (3, 4), (6, 3)]
+[(4, 7), (2, 4), (7, 2), (2, 7), (1, 2), (7, 1)]
 
 :::::::::::::::: ID's :::::::::::::::::
-[1, 29, 9, 12, 16, 2]
-[21, 33, 15, 28, 13, 4]
-[32, 23, 3, 8, 19, 5]
-[11, 31, 17, 24, 20, 22]
-[14, 7, 10, 0, 35, 25]
-[27, 30, 6, 18, 34, 26]
+[1, 21, 32, 11, 14, 27]
+[29, 33, 23, 31, 7, 30]
+[9, 15, 3, 17, 10, 6]
+[12, 28, 8, 24, 0, 18]
+[16, 13, 19, 20, 35, 34]
+[2, 4, 5, 22, 25, 26]
 ========== SOLUTION PRINTED ============
-2011-03-16 16:42:12.941000 - Tested Piece: 1 with POSITION: 2. Total Pieces achieved: 35
-2011-03-16 16:42:15.188000 - Tested Piece: 1 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:42:15.513000 - Tested Piece: 1 with POSITION: 4. Total Pieces achieved: 20
+2011-03-18 18:25:03.203000 - Tested Piece: 1 with POSITION: 2. Total Pieces achieved: 35
+2011-03-18 18:25:06.131000 - Tested Piece: 1 with POSITION: 3. Total Pieces achieved: 25
+2011-03-18 18:25:06.468000 - Tested Piece: 1 with POSITION: 4. Total Pieces achieved: 21
 
  CURRENT PIECE: 2 
 
 
 ========== PRINTING SOLUTION ============
-[(7, 4), (4, 2), (2, 7), (7, 2), (2, 1), (1, 7)]
-[(6, 1), (1, 3), (3, 5), (5, 4), (4, 3), (3, 6)]
+[(6, 7), (5, 6), (2, 5), (1, 2), (3, 1), (7, 3)]
+[(1, 4), (4, 1), (3, 4), (5, 3), (6, 5), (4, 6)]
 
-[(6, 1), (1, 3), (3, 5), (5, 4), (4, 3), (3, 6)]
-[(5, 4), (4, 6), (6, 1), (1, 2), (2, 5), (5, 4)]
+[(1, 4), (4, 1), (3, 4), (5, 3), (6, 5), (4, 6)]
+[(3, 2), (6, 3), (2, 6), (1, 2), (2, 1), (5, 2)]
 
-[(5, 4), (4, 6), (6, 1), (1, 2), (2, 5), (5, 4)]
-[(2, 3), (3, 2), (2, 4), (4, 3), (3, 6), (6, 2)]
+[(3, 2), (6, 3), (2, 6), (1, 2), (2, 1), (5, 2)]
+[(5, 7), (1, 5), (4, 1), (6, 4), (3, 6), (4, 3)]
 
-[(2, 3), (3, 2), (2, 4), (4, 3), (3, 6), (6, 2)]
-[(1, 5), (5, 1), (1, 6), (6, 5), (5, 1), (1, 5)]
+[(5, 7), (1, 5), (4, 1), (6, 4), (3, 6), (4, 3)]
+[(4, 2), (2, 4), (3, 2), (5, 3), (2, 5), (6, 2)]
 
-[(1, 5), (5, 1), (1, 6), (6, 5), (5, 1), (1, 5)]
-[(3, 6), (6, 2), (2, 3), (3, 2), (2, 4), (4, 3)]
+[(4, 2), (2, 4), (3, 2), (5, 3), (2, 5), (6, 2)]
+[(3, 1), (5, 3), (6, 5), (1, 6), (4, 1), (1, 4)]
 
-[(3, 6), (6, 2), (2, 3), (3, 2), (2, 4), (4, 3)]
-[(7, 4), (4, 5), (5, 4), (4, 6), (6, 1), (1, 7)]
+[(3, 1), (5, 3), (6, 5), (1, 6), (4, 1), (1, 4)]
+[(6, 7), (4, 6), (2, 4), (5, 2), (3, 5), (7, 3)]
 
 :::::::::::::::: ID's :::::::::::::::::
-[2, 4, 5, 22, 25, 26]
-[16, 13, 19, 20, 35, 34]
-[12, 28, 8, 24, 0, 18]
-[9, 15, 3, 17, 10, 6]
-[29, 33, 23, 31, 7, 30]
-[1, 21, 32, 11, 14, 27]
+[2, 16, 12, 9, 29, 1]
+[4, 13, 28, 15, 33, 21]
+[5, 19, 8, 3, 23, 32]
+[22, 20, 24, 17, 31, 11]
+[25, 35, 0, 10, 7, 14]
+[26, 34, 18, 6, 30, 27]
 ========== SOLUTION PRINTED ============
-2011-03-16 16:42:17.999000 - Tested Piece: 2 with POSITION: 1. Total Pieces achieved: 35
-2011-03-16 16:42:19.050000 - Tested Piece: 2 with POSITION: 2. Total Pieces achieved: 22
-2011-03-16 16:42:19.227000 - Tested Piece: 2 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:42:20.155000 - Tested Piece: 2 with POSITION: 4. Total Pieces achieved: 21
+2011-03-18 18:25:10.274000 - Tested Piece: 2 with POSITION: 1. Total Pieces achieved: 35
+2011-03-18 18:25:11.479000 - Tested Piece: 2 with POSITION: 2. Total Pieces achieved: 27
+2011-03-18 18:25:12.136000 - Tested Piece: 2 with POSITION: 3. Total Pieces achieved: 17
+2011-03-18 18:25:12.606000 - Tested Piece: 2 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 3 
 
 
-2011-03-16 16:42:24.349000 - Tested Piece: 3 with POSITION: 1. Total Pieces achieved: 22
-2011-03-16 16:42:27.089000 - Tested Piece: 3 with POSITION: 2. Total Pieces achieved: 21
-2011-03-16 16:42:28.955000 - Tested Piece: 3 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:42:33.167000 - Tested Piece: 3 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:25:17.302000 - Tested Piece: 3 with POSITION: 1. Total Pieces achieved: 25
+2011-03-18 18:25:21.391000 - Tested Piece: 3 with POSITION: 2. Total Pieces achieved: 25
+2011-03-18 18:25:24.286000 - Tested Piece: 3 with POSITION: 3. Total Pieces achieved: 21
+2011-03-18 18:25:29.753000 - Tested Piece: 3 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 4 
 
 
-2011-03-16 16:42:34.570000 - Tested Piece: 4 with POSITION: 1. Total Pieces achieved: 27
-2011-03-16 16:42:36.058000 - Tested Piece: 4 with POSITION: 2. Total Pieces achieved: 25
-2011-03-16 16:42:39.772000 - Tested Piece: 4 with POSITION: 3. Total Pieces achieved: 26
-2011-03-16 16:42:41.017000 - Tested Piece: 4 with POSITION: 4. Total Pieces achieved: 22
+2011-03-18 18:25:31.028000 - Tested Piece: 4 with POSITION: 1. Total Pieces achieved: 32
+2011-03-18 18:25:32.866000 - Tested Piece: 4 with POSITION: 2. Total Pieces achieved: 21
+2011-03-18 18:25:35.795000 - Tested Piece: 4 with POSITION: 3. Total Pieces achieved: 28
+2011-03-18 18:25:37.316000 - Tested Piece: 4 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 5 
 
 
-2011-03-16 16:42:43.492000 - Tested Piece: 5 with POSITION: 1. Total Pieces achieved: 28
-2011-03-16 16:42:46.686000 - Tested Piece: 5 with POSITION: 2. Total Pieces achieved: 25
-2011-03-16 16:42:48.365000 - Tested Piece: 5 with POSITION: 3. Total Pieces achieved: 27
-2011-03-16 16:42:48.437000 - Tested Piece: 5 with POSITION: 4. Total Pieces achieved: 5
+2011-03-18 18:25:41.166000 - Tested Piece: 5 with POSITION: 1. Total Pieces achieved: 26
+2011-03-18 18:25:45.103000 - Tested Piece: 5 with POSITION: 2. Total Pieces achieved: 23
+2011-03-18 18:25:47.678000 - Tested Piece: 5 with POSITION: 3. Total Pieces achieved: 28
+2011-03-18 18:25:47.779000 - Tested Piece: 5 with POSITION: 4. Total Pieces achieved: 5
 
  CURRENT PIECE: 6 
 
 
-2011-03-16 16:42:50.245000 - Tested Piece: 6 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:42:53.121000 - Tested Piece: 6 with POSITION: 2. Total Pieces achieved: 28
-2011-03-16 16:42:56.860000 - Tested Piece: 6 with POSITION: 3. Total Pieces achieved: 26
-2011-03-16 16:42:58.584000 - Tested Piece: 6 with POSITION: 4. Total Pieces achieved: 21
+2011-03-18 18:25:49.673000 - Tested Piece: 6 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:25:53.643000 - Tested Piece: 6 with POSITION: 2. Total Pieces achieved: 23
+2011-03-18 18:25:58.651000 - Tested Piece: 6 with POSITION: 3. Total Pieces achieved: 23
+2011-03-18 18:26:01.539000 - Tested Piece: 6 with POSITION: 4. Total Pieces achieved: 22
 
  CURRENT PIECE: 7 
 
 
-2011-03-16 16:43:00.332000 - Tested Piece: 7 with POSITION: 1. Total Pieces achieved: 22
-2011-03-16 16:43:02.480000 - Tested Piece: 7 with POSITION: 2. Total Pieces achieved: 26
-2011-03-16 16:43:05.861000 - Tested Piece: 7 with POSITION: 3. Total Pieces achieved: 23
-2011-03-16 16:43:09.573000 - Tested Piece: 7 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:26:04.028000 - Tested Piece: 7 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:26:07.725000 - Tested Piece: 7 with POSITION: 2. Total Pieces achieved: 21
+2011-03-18 18:26:10.562000 - Tested Piece: 7 with POSITION: 3. Total Pieces achieved: 28
+2011-03-18 18:26:13.696000 - Tested Piece: 7 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 8 
 
 
-2011-03-16 16:43:11.023000 - Tested Piece: 8 with POSITION: 1. Total Pieces achieved: 23
-2011-03-16 16:43:14.029000 - Tested Piece: 8 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:43:17.342000 - Tested Piece: 8 with POSITION: 3. Total Pieces achieved: 23
-2011-03-16 16:43:20.746000 - Tested Piece: 8 with POSITION: 4. Total Pieces achieved: 22
+2011-03-18 18:26:15.950000 - Tested Piece: 8 with POSITION: 1. Total Pieces achieved: 23
+2011-03-18 18:26:18.777000 - Tested Piece: 8 with POSITION: 2. Total Pieces achieved: 23
+2011-03-18 18:26:22.311000 - Tested Piece: 8 with POSITION: 3. Total Pieces achieved: 23
+2011-03-18 18:26:27.938000 - Tested Piece: 8 with POSITION: 4. Total Pieces achieved: 28
 
  CURRENT PIECE: 9 
 
 
-2011-03-16 16:43:22.897000 - Tested Piece: 9 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:43:26.432000 - Tested Piece: 9 with POSITION: 2. Total Pieces achieved: 25
-2011-03-16 16:43:29.934000 - Tested Piece: 9 with POSITION: 3. Total Pieces achieved: 23
-2011-03-16 16:43:32.816000 - Tested Piece: 9 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:26:32.105000 - Tested Piece: 9 with POSITION: 1. Total Pieces achieved: 21
+2011-03-18 18:26:36.837000 - Tested Piece: 9 with POSITION: 2. Total Pieces achieved: 26
+2011-03-18 18:26:39.833000 - Tested Piece: 9 with POSITION: 3. Total Pieces achieved: 20
+2011-03-18 18:26:42.800000 - Tested Piece: 9 with POSITION: 4. Total Pieces achieved: 26
 
  CURRENT PIECE: 10 
 
 
-2011-03-16 16:43:35.236000 - Tested Piece: 10 with POSITION: 1. Total Pieces achieved: 23
-2011-03-16 16:43:38.496000 - Tested Piece: 10 with POSITION: 2. Total Pieces achieved: 27
-2011-03-16 16:43:42.023000 - Tested Piece: 10 with POSITION: 3. Total Pieces achieved: 27
-2011-03-16 16:43:45.562000 - Tested Piece: 10 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:26:59.555000 - Tested Piece: 10 with POSITION: 1. Total Pieces achieved: 23
+2011-03-18 18:27:03.686000 - Tested Piece: 10 with POSITION: 2. Total Pieces achieved: 25
+2011-03-18 18:27:07.330000 - Tested Piece: 10 with POSITION: 3. Total Pieces achieved: 25
+2011-03-18 18:27:12.614000 - Tested Piece: 10 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 11 
 
 
-2011-03-16 16:43:46.920000 - Tested Piece: 11 with POSITION: 1. Total Pieces achieved: 22
-2011-03-16 16:43:50.713000 - Tested Piece: 11 with POSITION: 2. Total Pieces achieved: 26
-2011-03-16 16:43:55.350000 - Tested Piece: 11 with POSITION: 3. Total Pieces achieved: 26
-2011-03-16 16:43:58.151000 - Tested Piece: 11 with POSITION: 4. Total Pieces achieved: 26
+2011-03-18 18:27:14.305000 - Tested Piece: 11 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:27:17.943000 - Tested Piece: 11 with POSITION: 2. Total Pieces achieved: 26
+2011-03-18 18:27:23.957000 - Tested Piece: 11 with POSITION: 3. Total Pieces achieved: 26
+2011-03-18 18:27:27.959000 - Tested Piece: 11 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 12 
 
 
-2011-03-16 16:44:00.774000 - Tested Piece: 12 with POSITION: 1. Total Pieces achieved: 21
-2011-03-16 16:44:01.850000 - Tested Piece: 12 with POSITION: 2. Total Pieces achieved: 21
-2011-03-16 16:44:05.219000 - Tested Piece: 12 with POSITION: 3. Total Pieces achieved: 31
-2011-03-16 16:44:09.883000 - Tested Piece: 12 with POSITION: 4. Total Pieces achieved: 26
+2011-03-18 18:27:32.646000 - Tested Piece: 12 with POSITION: 1. Total Pieces achieved: 25
+2011-03-18 18:27:34.067000 - Tested Piece: 12 with POSITION: 2. Total Pieces achieved: 21
+2011-03-18 18:27:38.469000 - Tested Piece: 12 with POSITION: 3. Total Pieces achieved: 23
+2011-03-18 18:27:44.907000 - Tested Piece: 12 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 13 
 
 
-2011-03-16 16:44:13.489000 - Tested Piece: 13 with POSITION: 1. Total Pieces achieved: 22
-2011-03-16 16:44:49.862000 - Tested Piece: 13 with POSITION: 2. Total Pieces achieved: 25
-2011-03-16 16:44:51.369000 - Tested Piece: 13 with POSITION: 3. Total Pieces achieved: 25
-2011-03-16 16:44:53.727000 - Tested Piece: 13 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:27:47.839000 - Tested Piece: 13 with POSITION: 1. Total Pieces achieved: 25
+2011-03-18 18:27:50.546000 - Tested Piece: 13 with POSITION: 2. Total Pieces achieved: 21
+2011-03-18 18:27:52.776000 - Tested Piece: 13 with POSITION: 3. Total Pieces achieved: 26
+2011-03-18 18:27:54.819000 - Tested Piece: 13 with POSITION: 4. Total Pieces achieved: 22
 
  CURRENT PIECE: 14 
 
 
-2011-03-16 16:44:58.250000 - Tested Piece: 14 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:45:00.981000 - Tested Piece: 14 with POSITION: 2. Total Pieces achieved: 28
-2011-03-16 16:45:03.175000 - Tested Piece: 14 with POSITION: 3. Total Pieces achieved: 34
-2011-03-16 16:45:06.452000 - Tested Piece: 14 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:27:58.487000 - Tested Piece: 14 with POSITION: 1. Total Pieces achieved: 31
+2011-03-18 18:28:01.248000 - Tested Piece: 14 with POSITION: 2. Total Pieces achieved: 22
+2011-03-18 18:28:04.398000 - Tested Piece: 14 with POSITION: 3. Total Pieces achieved: 29
+2011-03-18 18:28:07.278000 - Tested Piece: 14 with POSITION: 4. Total Pieces achieved: 27
 
  CURRENT PIECE: 15 
 
 
-2011-03-16 16:45:09.283000 - Tested Piece: 15 with POSITION: 1. Total Pieces achieved: 25
-2011-03-16 16:45:11.823000 - Tested Piece: 15 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:45:14.453000 - Tested Piece: 15 with POSITION: 3. Total Pieces achieved: 25
-2011-03-16 16:45:18.460000 - Tested Piece: 15 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:28:10.616000 - Tested Piece: 15 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:28:13.212000 - Tested Piece: 15 with POSITION: 2. Total Pieces achieved: 25
+2011-03-18 18:28:16.361000 - Tested Piece: 15 with POSITION: 3. Total Pieces achieved: 22
+2011-03-18 18:28:21.449000 - Tested Piece: 15 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 16 
 
 
-2011-03-16 16:45:20.409000 - Tested Piece: 16 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:45:23.776000 - Tested Piece: 16 with POSITION: 2. Total Pieces achieved: 31
-2011-03-16 16:45:27.274000 - Tested Piece: 16 with POSITION: 3. Total Pieces achieved: 23
-2011-03-16 16:45:28.088000 - Tested Piece: 16 with POSITION: 4. Total Pieces achieved: 25
+2011-03-18 18:28:23.024000 - Tested Piece: 16 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:28:27.127000 - Tested Piece: 16 with POSITION: 2. Total Pieces achieved: 22
+2011-03-18 18:28:31.038000 - Tested Piece: 16 with POSITION: 3. Total Pieces achieved: 23
+2011-03-18 18:28:32.247000 - Tested Piece: 16 with POSITION: 4. Total Pieces achieved: 21
 
  CURRENT PIECE: 17 
 
 
-2011-03-16 16:45:29.256000 - Tested Piece: 17 with POSITION: 1. Total Pieces achieved: 22
-2011-03-16 16:45:30.889000 - Tested Piece: 17 with POSITION: 2. Total Pieces achieved: 21
-2011-03-16 16:45:36.585000 - Tested Piece: 17 with POSITION: 3. Total Pieces achieved: 23
-2011-03-16 16:45:39.442000 - Tested Piece: 17 with POSITION: 4. Total Pieces achieved: 22
+2011-03-18 18:28:33.813000 - Tested Piece: 17 with POSITION: 1. Total Pieces achieved: 25
+2011-03-18 18:28:36.250000 - Tested Piece: 17 with POSITION: 2. Total Pieces achieved: 19
+2011-03-18 18:28:41.274000 - Tested Piece: 17 with POSITION: 3. Total Pieces achieved: 23
+2011-03-18 18:28:44.907000 - Tested Piece: 17 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 18 
 
 
-2011-03-16 16:45:42.019000 - Tested Piece: 18 with POSITION: 1. Total Pieces achieved: 25
-2011-03-16 16:45:44.515000 - Tested Piece: 18 with POSITION: 2. Total Pieces achieved: 26
-2011-03-16 16:45:47.824000 - Tested Piece: 18 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:45:49.403000 - Tested Piece: 18 with POSITION: 4. Total Pieces achieved: 22
+2011-03-18 18:28:47.806000 - Tested Piece: 18 with POSITION: 1. Total Pieces achieved: 25
+2011-03-18 18:28:50.114000 - Tested Piece: 18 with POSITION: 2. Total Pieces achieved: 25
+2011-03-18 18:28:54.344000 - Tested Piece: 18 with POSITION: 3. Total Pieces achieved: 26
+2011-03-18 18:28:56.712000 - Tested Piece: 18 with POSITION: 4. Total Pieces achieved: 21
 
  CURRENT PIECE: 19 
 
 
-2011-03-16 16:45:51.631000 - Tested Piece: 19 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:45:55.396000 - Tested Piece: 19 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:45:57.732000 - Tested Piece: 19 with POSITION: 3. Total Pieces achieved: 21
-2011-03-16 16:46:01.384000 - Tested Piece: 19 with POSITION: 4. Total Pieces achieved: 26
+2011-03-18 18:29:00.539000 - Tested Piece: 19 with POSITION: 1. Total Pieces achieved: 21
+2011-03-18 18:29:04.275000 - Tested Piece: 19 with POSITION: 2. Total Pieces achieved: 25
+2011-03-18 18:29:06.856000 - Tested Piece: 19 with POSITION: 3. Total Pieces achieved: 22
+2011-03-18 18:29:10.164000 - Tested Piece: 19 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 20 
 
 
-2011-03-16 16:46:03.497000 - Tested Piece: 20 with POSITION: 1. Total Pieces achieved: 25
-2011-03-16 16:46:06.057000 - Tested Piece: 20 with POSITION: 2. Total Pieces achieved: 25
-2011-03-16 16:46:08.383000 - Tested Piece: 20 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:46:11.124000 - Tested Piece: 20 with POSITION: 4. Total Pieces achieved: 25
+2011-03-18 18:29:14.186000 - Tested Piece: 20 with POSITION: 1. Total Pieces achieved: 23
+2011-03-18 18:29:16.903000 - Tested Piece: 20 with POSITION: 2. Total Pieces achieved: 28
+2011-03-18 18:29:19.794000 - Tested Piece: 20 with POSITION: 3. Total Pieces achieved: 27
+2011-03-18 18:29:23.193000 - Tested Piece: 20 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 21 
 
 
-2011-03-16 16:46:15.057000 - Tested Piece: 21 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:46:18.393000 - Tested Piece: 21 with POSITION: 2. Total Pieces achieved: 27
-2011-03-16 16:46:19.543000 - Tested Piece: 21 with POSITION: 3. Total Pieces achieved: 21
-2011-03-16 16:46:21.526000 - Tested Piece: 21 with POSITION: 4. Total Pieces achieved: 31
+2011-03-18 18:29:29.327000 - Tested Piece: 21 with POSITION: 1. Total Pieces achieved: 23
+2011-03-18 18:29:33.325000 - Tested Piece: 21 with POSITION: 2. Total Pieces achieved: 22
+2011-03-18 18:29:34.901000 - Tested Piece: 21 with POSITION: 3. Total Pieces achieved: 22
+2011-03-18 18:29:36.905000 - Tested Piece: 21 with POSITION: 4. Total Pieces achieved: 20
 
  CURRENT PIECE: 22 
 
 
-2011-03-16 16:46:21.629000 - Tested Piece: 22 with POSITION: 1. Total Pieces achieved: 5
-2011-03-16 16:46:23.302000 - Tested Piece: 22 with POSITION: 2. Total Pieces achieved: 25
-2011-03-16 16:46:27.978000 - Tested Piece: 22 with POSITION: 3. Total Pieces achieved: 26
-2011-03-16 16:46:29.291000 - Tested Piece: 22 with POSITION: 4. Total Pieces achieved: 21
+2011-03-18 18:29:36.976000 - Tested Piece: 22 with POSITION: 1. Total Pieces achieved: 5
+2011-03-18 18:29:38.567000 - Tested Piece: 22 with POSITION: 2. Total Pieces achieved: 25
+2011-03-18 18:29:46.318000 - Tested Piece: 22 with POSITION: 3. Total Pieces achieved: 25
+2011-03-18 18:29:48.736000 - Tested Piece: 22 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 23 
 
 
-2011-03-16 16:46:31.496000 - Tested Piece: 23 with POSITION: 1. Total Pieces achieved: 25
-2011-03-16 16:46:33.767000 - Tested Piece: 23 with POSITION: 2. Total Pieces achieved: 22
-2011-03-16 16:46:37.858000 - Tested Piece: 23 with POSITION: 3. Total Pieces achieved: 25
-2011-03-16 16:46:42.375000 - Tested Piece: 23 with POSITION: 4. Total Pieces achieved: 29
+2011-03-18 18:29:51.169000 - Tested Piece: 23 with POSITION: 1. Total Pieces achieved: 25
+2011-03-18 18:29:54.213000 - Tested Piece: 23 with POSITION: 2. Total Pieces achieved: 22
+2011-03-18 18:29:59.499000 - Tested Piece: 23 with POSITION: 3. Total Pieces achieved: 25
+2011-03-18 18:30:04.771000 - Tested Piece: 23 with POSITION: 4. Total Pieces achieved: 26
 
  CURRENT PIECE: 24 
 
 
-2011-03-16 16:46:46.659000 - Tested Piece: 24 with POSITION: 1. Total Pieces achieved: 23
-2011-03-16 16:46:50.491000 - Tested Piece: 24 with POSITION: 2. Total Pieces achieved: 22
-2011-03-16 16:46:52.263000 - Tested Piece: 24 with POSITION: 3. Total Pieces achieved: 20
-2011-03-16 16:46:55.109000 - Tested Piece: 24 with POSITION: 4. Total Pieces achieved: 26
+2011-03-18 18:30:09.171000 - Tested Piece: 24 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:30:12.662000 - Tested Piece: 24 with POSITION: 2. Total Pieces achieved: 20
+2011-03-18 18:30:15.178000 - Tested Piece: 24 with POSITION: 3. Total Pieces achieved: 22
+2011-03-18 18:30:18.682000 - Tested Piece: 24 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 25 
 
 
-2011-03-16 16:46:57.240000 - Tested Piece: 25 with POSITION: 1. Total Pieces achieved: 23
-2011-03-16 16:46:59.568000 - Tested Piece: 25 with POSITION: 2. Total Pieces achieved: 31
-2011-03-16 16:47:01.243000 - Tested Piece: 25 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:47:02.808000 - Tested Piece: 25 with POSITION: 4. Total Pieces achieved: 22
+2011-03-18 18:30:22.909000 - Tested Piece: 25 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:30:26.271000 - Tested Piece: 25 with POSITION: 2. Total Pieces achieved: 21
+2011-03-18 18:30:29.219000 - Tested Piece: 25 with POSITION: 3. Total Pieces achieved: 22
+2011-03-18 18:30:30.508000 - Tested Piece: 25 with POSITION: 4. Total Pieces achieved: 26
 
  CURRENT PIECE: 26 
 
 
-2011-03-16 16:47:03.211000 - Tested Piece: 26 with POSITION: 1. Total Pieces achieved: 21
+2011-03-18 18:30:30.887000 - Tested Piece: 26 with POSITION: 1. Total Pieces achieved: 21
 ========== PRINTING SOLUTION ============
-[(7, 6), (6, 4), (4, 2), (2, 5), (5, 3), (3, 7)]
-[(1, 3), (3, 5), (5, 6), (6, 1), (1, 4), (4, 1)]
+[(1, 7), (2, 1), (7, 2), (2, 7), (4, 2), (7, 4)]
+[(3, 6), (4, 3), (5, 4), (3, 5), (1, 3), (6, 1)]
 
-[(1, 3), (3, 5), (5, 6), (6, 1), (1, 4), (4, 1)]
-[(2, 4), (4, 2), (2, 3), (3, 5), (5, 2), (2, 6)]
+[(3, 6), (4, 3), (5, 4), (3, 5), (1, 3), (6, 1)]
+[(5, 4), (2, 5), (1, 2), (6, 1), (4, 6), (5, 4)]
 
-[(2, 4), (4, 2), (2, 3), (3, 5), (5, 2), (2, 6)]
-[(7, 5), (5, 1), (1, 4), (4, 6), (6, 3), (3, 4)]
+[(5, 4), (2, 5), (1, 2), (6, 1), (4, 6), (5, 4)]
+[(6, 2), (3, 6), (4, 3), (2, 4), (3, 2), (2, 3)]
 
-[(7, 5), (5, 1), (1, 4), (4, 6), (6, 3), (3, 4)]
-[(2, 3), (3, 6), (6, 2), (2, 1), (1, 2), (2, 5)]
+[(6, 2), (3, 6), (4, 3), (2, 4), (3, 2), (2, 3)]
+[(1, 5), (5, 1), (6, 5), (1, 6), (5, 1), (1, 5)]
 
-[(2, 3), (3, 6), (6, 2), (2, 1), (1, 2), (2, 5)]
-[(4, 1), (1, 4), (4, 3), (3, 5), (5, 6), (6, 4)]
+[(1, 5), (5, 1), (6, 5), (1, 6), (5, 1), (1, 5)]
+[(4, 3), (2, 4), (3, 2), (2, 3), (6, 2), (3, 6)]
 
-[(4, 1), (1, 4), (4, 3), (3, 5), (5, 6), (6, 4)]
-[(7, 6), (6, 5), (5, 2), (2, 1), (1, 3), (3, 7)]
+[(4, 3), (2, 4), (3, 2), (2, 3), (6, 2), (3, 6)]
+[(1, 7), (6, 1), (4, 6), (5, 4), (4, 5), (7, 4)]
 
 :::::::::::::::: ID's :::::::::::::::::
-[26, 34, 18, 6, 30, 27]
-[25, 35, 0, 10, 7, 14]
-[22, 20, 24, 17, 31, 11]
-[5, 19, 8, 3, 23, 32]
-[4, 13, 28, 15, 33, 21]
-[2, 16, 12, 9, 29, 1]
+[26, 25, 22, 5, 4, 2]
+[34, 35, 20, 19, 13, 16]
+[18, 0, 24, 8, 28, 12]
+[6, 10, 17, 3, 15, 9]
+[30, 7, 31, 23, 33, 29]
+[27, 14, 11, 32, 21, 1]
 ========== SOLUTION PRINTED ============
-2011-03-16 16:47:05.711000 - Tested Piece: 26 with POSITION: 2. Total Pieces achieved: 35
-2011-03-16 16:47:06.712000 - Tested Piece: 26 with POSITION: 3. Total Pieces achieved: 27
-2011-03-16 16:47:07.655000 - Tested Piece: 26 with POSITION: 4. Total Pieces achieved: 25
+2011-03-18 18:30:32.901000 - Tested Piece: 26 with POSITION: 2. Total Pieces achieved: 35
+2011-03-18 18:30:34.082000 - Tested Piece: 26 with POSITION: 3. Total Pieces achieved: 21
+2011-03-18 18:30:34.537000 - Tested Piece: 26 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 27 
 
 
 ========== PRINTING SOLUTION ============
-[(7, 1), (1, 6), (6, 4), (4, 5), (5, 4), (4, 7)]
-[(3, 4), (4, 2), (2, 3), (3, 2), (2, 6), (6, 3)]
+[(3, 7), (5, 3), (2, 5), (4, 2), (6, 4), (7, 6)]
+[(4, 1), (1, 4), (6, 1), (5, 6), (3, 5), (1, 3)]
 
-[(3, 4), (4, 2), (2, 3), (3, 2), (2, 6), (6, 3)]
-[(5, 1), (1, 5), (5, 6), (6, 1), (1, 5), (5, 1)]
+[(4, 1), (1, 4), (6, 1), (5, 6), (3, 5), (1, 3)]
+[(2, 6), (5, 2), (3, 5), (2, 3), (4, 2), (2, 4)]
 
-[(5, 1), (1, 5), (5, 6), (6, 1), (1, 5), (5, 1)]
-[(2, 6), (6, 3), (3, 4), (4, 2), (2, 3), (3, 2)]
+[(2, 6), (5, 2), (3, 5), (2, 3), (4, 2), (2, 4)]
+[(3, 4), (6, 3), (4, 6), (1, 4), (5, 1), (7, 5)]
 
-[(2, 6), (6, 3), (3, 4), (4, 2), (2, 3), (3, 2)]
-[(4, 5), (5, 2), (2, 1), (1, 6), (6, 4), (4, 5)]
+[(3, 4), (6, 3), (4, 6), (1, 4), (5, 1), (7, 5)]
+[(2, 5), (1, 2), (2, 1), (6, 2), (3, 6), (2, 3)]
 
-[(4, 5), (5, 2), (2, 1), (1, 6), (6, 4), (4, 5)]
-[(6, 3), (3, 4), (4, 5), (5, 3), (3, 1), (1, 6)]
+[(2, 5), (1, 2), (2, 1), (6, 2), (3, 6), (2, 3)]
+[(6, 4), (5, 6), (3, 5), (4, 3), (1, 4), (4, 1)]
 
-[(6, 3), (3, 4), (4, 5), (5, 3), (3, 1), (1, 6)]
-[(7, 1), (1, 2), (2, 7), (7, 2), (2, 4), (4, 7)]
+[(6, 4), (5, 6), (3, 5), (4, 3), (1, 4), (4, 1)]
+[(3, 7), (1, 3), (2, 1), (5, 2), (6, 5), (7, 6)]
 
 :::::::::::::::: ID's :::::::::::::::::
-[27, 14, 11, 32, 21, 1]
-[30, 7, 31, 23, 33, 29]
-[6, 10, 17, 3, 15, 9]
-[18, 0, 24, 8, 28, 12]
-[34, 35, 20, 19, 13, 16]
-[26, 25, 22, 5, 4, 2]
+[27, 30, 6, 18, 34, 26]
+[14, 7, 10, 0, 35, 25]
+[11, 31, 17, 24, 20, 22]
+[32, 23, 3, 8, 19, 5]
+[21, 33, 15, 28, 13, 4]
+[1, 29, 9, 12, 16, 2]
 ========== SOLUTION PRINTED ============
-2011-03-16 16:47:11.795000 - Tested Piece: 27 with POSITION: 1. Total Pieces achieved: 35
-2011-03-16 16:47:12.501000 - Tested Piece: 27 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:47:12.770000 - Tested Piece: 27 with POSITION: 3. Total Pieces achieved: 20
-2011-03-16 16:47:15.402000 - Tested Piece: 27 with POSITION: 4. Total Pieces achieved: 26
+2011-03-18 18:30:39.595000 - Tested Piece: 27 with POSITION: 1. Total Pieces achieved: 35
+2011-03-18 18:30:40.435000 - Tested Piece: 27 with POSITION: 2. Total Pieces achieved: 21
+2011-03-18 18:30:40.802000 - Tested Piece: 27 with POSITION: 3. Total Pieces achieved: 20
+2011-03-18 18:30:42.118000 - Tested Piece: 27 with POSITION: 4. Total Pieces achieved: 26
 
  CURRENT PIECE: 28 
 
 
-2011-03-16 16:47:18.504000 - Tested Piece: 28 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:47:21.152000 - Tested Piece: 28 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:47:24.794000 - Tested Piece: 28 with POSITION: 3. Total Pieces achieved: 25
-2011-03-16 16:47:28.758000 - Tested Piece: 28 with POSITION: 4. Total Pieces achieved: 25
+2011-03-18 18:30:47.502000 - Tested Piece: 28 with POSITION: 1. Total Pieces achieved: 26
+2011-03-18 18:30:50.419000 - Tested Piece: 28 with POSITION: 2. Total Pieces achieved: 22
+2011-03-18 18:30:54.319000 - Tested Piece: 28 with POSITION: 3. Total Pieces achieved: 22
+2011-03-18 18:30:57.564000 - Tested Piece: 28 with POSITION: 4. Total Pieces achieved: 22
 
  CURRENT PIECE: 29 
 
 
-2011-03-16 16:47:30.091000 - Tested Piece: 29 with POSITION: 1. Total Pieces achieved: 26
-2011-03-16 16:47:32.413000 - Tested Piece: 29 with POSITION: 2. Total Pieces achieved: 34
-2011-03-16 16:47:35.503000 - Tested Piece: 29 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:47:38.346000 - Tested Piece: 29 with POSITION: 4. Total Pieces achieved: 26
+2011-03-18 18:30:59.315000 - Tested Piece: 29 with POSITION: 1. Total Pieces achieved: 23
+2011-03-18 18:31:01.219000 - Tested Piece: 29 with POSITION: 2. Total Pieces achieved: 29
+2011-03-18 18:31:04.501000 - Tested Piece: 29 with POSITION: 3. Total Pieces achieved: 23
+2011-03-18 18:31:07.623000 - Tested Piece: 29 with POSITION: 4. Total Pieces achieved: 31
 
  CURRENT PIECE: 30 
 
 
-2011-03-16 16:47:41.013000 - Tested Piece: 30 with POSITION: 1. Total Pieces achieved: 23
-2011-03-16 16:47:43.710000 - Tested Piece: 30 with POSITION: 2. Total Pieces achieved: 31
-2011-03-16 16:47:46.754000 - Tested Piece: 30 with POSITION: 3. Total Pieces achieved: 26
-2011-03-16 16:47:50.213000 - Tested Piece: 30 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:31:10.729000 - Tested Piece: 30 with POSITION: 1. Total Pieces achieved: 25
+2011-03-18 18:31:14.971000 - Tested Piece: 30 with POSITION: 2. Total Pieces achieved: 22
+2011-03-18 18:31:18.649000 - Tested Piece: 30 with POSITION: 3. Total Pieces achieved: 25
+2011-03-18 18:31:22.875000 - Tested Piece: 30 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 31 
 
 
-2011-03-16 16:47:52.044000 - Tested Piece: 31 with POSITION: 1. Total Pieces achieved: 21
-2011-03-16 16:47:56.020000 - Tested Piece: 31 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:48:01.168000 - Tested Piece: 31 with POSITION: 3. Total Pieces achieved: 26
-2011-03-16 16:48:05.284000 - Tested Piece: 31 with POSITION: 4. Total Pieces achieved: 25
+2011-03-18 18:31:27.005000 - Tested Piece: 31 with POSITION: 1. Total Pieces achieved: 22
+2011-03-18 18:31:33.524000 - Tested Piece: 31 with POSITION: 2. Total Pieces achieved: 26
+2011-03-18 18:31:38.358000 - Tested Piece: 31 with POSITION: 3. Total Pieces achieved: 25
+2011-03-18 18:31:42.034000 - Tested Piece: 31 with POSITION: 4. Total Pieces achieved: 26
 
  CURRENT PIECE: 32 
 
 
-2011-03-16 16:48:07.224000 - Tested Piece: 32 with POSITION: 1. Total Pieces achieved: 23
-2011-03-16 16:48:09.181000 - Tested Piece: 32 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:48:12.845000 - Tested Piece: 32 with POSITION: 3. Total Pieces achieved: 25
-2011-03-16 16:48:18.107000 - Tested Piece: 32 with POSITION: 4. Total Pieces achieved: 26
+2011-03-18 18:31:44.766000 - Tested Piece: 32 with POSITION: 1. Total Pieces achieved: 21
+2011-03-18 18:31:48.619000 - Tested Piece: 32 with POSITION: 2. Total Pieces achieved: 25
+2011-03-18 18:31:52.938000 - Tested Piece: 32 with POSITION: 3. Total Pieces achieved: 23
+2011-03-18 18:31:57.691000 - Tested Piece: 32 with POSITION: 4. Total Pieces achieved: 25
 
  CURRENT PIECE: 33 
 
 
-2011-03-16 16:48:20.496000 - Tested Piece: 33 with POSITION: 1. Total Pieces achieved: 23
-2011-03-16 16:48:23.182000 - Tested Piece: 33 with POSITION: 2. Total Pieces achieved: 23
-2011-03-16 16:48:26.845000 - Tested Piece: 33 with POSITION: 3. Total Pieces achieved: 25
-2011-03-16 16:48:29.977000 - Tested Piece: 33 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:32:00.302000 - Tested Piece: 33 with POSITION: 1. Total Pieces achieved: 21
+2011-03-18 18:32:03.544000 - Tested Piece: 33 with POSITION: 2. Total Pieces achieved: 22
+2011-03-18 18:32:07.415000 - Tested Piece: 33 with POSITION: 3. Total Pieces achieved: 26
+2011-03-18 18:32:12.207000 - Tested Piece: 33 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 34 
 
 
-2011-03-16 16:48:32.154000 - Tested Piece: 34 with POSITION: 1. Total Pieces achieved: 21
-2011-03-16 16:48:33.749000 - Tested Piece: 34 with POSITION: 2. Total Pieces achieved: 26
-2011-03-16 16:48:37.018000 - Tested Piece: 34 with POSITION: 3. Total Pieces achieved: 34
-2011-03-16 16:48:40.832000 - Tested Piece: 34 with POSITION: 4. Total Pieces achieved: 23
+2011-03-18 18:32:14.358000 - Tested Piece: 34 with POSITION: 1. Total Pieces achieved: 31
+2011-03-18 18:32:16.542000 - Tested Piece: 34 with POSITION: 2. Total Pieces achieved: 23
+2011-03-18 18:32:19.367000 - Tested Piece: 34 with POSITION: 3. Total Pieces achieved: 29
+2011-03-18 18:32:24.777000 - Tested Piece: 34 with POSITION: 4. Total Pieces achieved: 23
 
  CURRENT PIECE: 35 
 
 
-2011-03-16 16:48:46.301000 - Tested Piece: 35 with POSITION: 1. Total Pieces achieved: 25
-2011-03-16 16:48:47.657000 - Tested Piece: 35 with POSITION: 2. Total Pieces achieved: 26
-2011-03-16 16:48:52.771000 - Tested Piece: 35 with POSITION: 3. Total Pieces achieved: 22
-2011-03-16 16:48:55.709000 - Tested Piece: 35 with POSITION: 4. Total Pieces achieved: 21
+2011-03-18 18:32:31.024000 - Tested Piece: 35 with POSITION: 1. Total Pieces achieved: 26
+2011-03-18 18:32:34.410000 - Tested Piece: 35 with POSITION: 2. Total Pieces achieved: 21
+2011-03-18 18:32:38.507000 - Tested Piece: 35 with POSITION: 3. Total Pieces achieved: 26
+2011-03-18 18:32:43.568000 - Tested Piece: 35 with POSITION: 4. Total Pieces achieved: 22
 ========== PRINTING SOLUTION ============
-[(7, 3), (3, 1), (1, 2), (2, 5), (5, 6), (6, 7)]
-[(4, 6), (6, 5), (5, 3), (3, 4), (4, 1), (1, 4)]
+[(4, 7), (5, 4), (4, 5), (6, 4), (1, 6), (7, 1)]
+[(6, 3), (2, 6), (3, 2), (2, 3), (4, 2), (3, 4)]
 
-[(4, 6), (6, 5), (5, 3), (3, 4), (4, 1), (1, 4)]
-[(5, 2), (2, 1), (1, 2), (2, 6), (6, 3), (3, 2)]
+[(6, 3), (2, 6), (3, 2), (2, 3), (4, 2), (3, 4)]
+[(5, 1), (1, 5), (6, 1), (5, 6), (1, 5), (5, 1)]
 
-[(5, 2), (2, 1), (1, 2), (2, 6), (6, 3), (3, 2)]
-[(4, 3), (3, 6), (6, 4), (4, 1), (1, 5), (5, 7)]
+[(5, 1), (1, 5), (6, 1), (5, 6), (1, 5), (5, 1)]
+[(3, 2), (2, 3), (4, 2), (3, 4), (6, 3), (2, 6)]
 
-[(4, 3), (3, 6), (6, 4), (4, 1), (1, 5), (5, 7)]
-[(6, 2), (2, 5), (5, 3), (3, 2), (2, 4), (4, 2)]
+[(3, 2), (2, 3), (4, 2), (3, 4), (6, 3), (2, 6)]
+[(4, 5), (6, 4), (1, 6), (2, 1), (5, 2), (4, 5)]
 
-[(6, 2), (2, 5), (5, 3), (3, 2), (2, 4), (4, 2)]
-[(1, 4), (4, 1), (1, 6), (6, 5), (5, 3), (3, 1)]
+[(4, 5), (6, 4), (1, 6), (2, 1), (5, 2), (4, 5)]
+[(1, 6), (3, 1), (5, 3), (4, 5), (3, 4), (6, 3)]
 
-[(1, 4), (4, 1), (1, 6), (6, 5), (5, 3), (3, 1)]
-[(7, 3), (3, 5), (5, 2), (2, 4), (4, 6), (6, 7)]
+[(1, 6), (3, 1), (5, 3), (4, 5), (3, 4), (6, 3)]
+[(4, 7), (2, 4), (7, 2), (2, 7), (1, 2), (7, 1)]
 
 :::::::::::::::: ID's :::::::::::::::::
-[1, 29, 9, 12, 16, 2]
-[21, 33, 15, 28, 13, 4]
-[32, 23, 3, 8, 19, 5]
-[11, 31, 17, 24, 20, 22]
-[14, 7, 10, 0, 35, 25]
-[27, 30, 6, 18, 34, 26]
-========== SOLUTION PRINTED ============
-========== PRINTING SOLUTION ============
-[(7, 4), (4, 2), (2, 7), (7, 2), (2, 1), (1, 7)]
-[(6, 1), (1, 3), (3, 5), (5, 4), (4, 3), (3, 6)]
-
-[(6, 1), (1, 3), (3, 5), (5, 4), (4, 3), (3, 6)]
-[(5, 4), (4, 6), (6, 1), (1, 2), (2, 5), (5, 4)]
-
-[(5, 4), (4, 6), (6, 1), (1, 2), (2, 5), (5, 4)]
-[(2, 3), (3, 2), (2, 4), (4, 3), (3, 6), (6, 2)]
-
-[(2, 3), (3, 2), (2, 4), (4, 3), (3, 6), (6, 2)]
-[(1, 5), (5, 1), (1, 6), (6, 5), (5, 1), (1, 5)]
-
-[(1, 5), (5, 1), (1, 6), (6, 5), (5, 1), (1, 5)]
-[(3, 6), (6, 2), (2, 3), (3, 2), (2, 4), (4, 3)]
-
-[(3, 6), (6, 2), (2, 3), (3, 2), (2, 4), (4, 3)]
-[(7, 4), (4, 5), (5, 4), (4, 6), (6, 1), (1, 7)]
-
-:::::::::::::::: ID's :::::::::::::::::
-[2, 4, 5, 22, 25, 26]
-[16, 13, 19, 20, 35, 34]
-[12, 28, 8, 24, 0, 18]
-[9, 15, 3, 17, 10, 6]
-[29, 33, 23, 31, 7, 30]
 [1, 21, 32, 11, 14, 27]
+[29, 33, 23, 31, 7, 30]
+[9, 15, 3, 17, 10, 6]
+[12, 28, 8, 24, 0, 18]
+[16, 13, 19, 20, 35, 34]
+[2, 4, 5, 22, 25, 26]
 ========== SOLUTION PRINTED ============
 ========== PRINTING SOLUTION ============
-[(7, 6), (6, 4), (4, 2), (2, 5), (5, 3), (3, 7)]
-[(1, 3), (3, 5), (5, 6), (6, 1), (1, 4), (4, 1)]
+[(6, 7), (5, 6), (2, 5), (1, 2), (3, 1), (7, 3)]
+[(1, 4), (4, 1), (3, 4), (5, 3), (6, 5), (4, 6)]
 
-[(1, 3), (3, 5), (5, 6), (6, 1), (1, 4), (4, 1)]
-[(2, 4), (4, 2), (2, 3), (3, 5), (5, 2), (2, 6)]
+[(1, 4), (4, 1), (3, 4), (5, 3), (6, 5), (4, 6)]
+[(3, 2), (6, 3), (2, 6), (1, 2), (2, 1), (5, 2)]
 
-[(2, 4), (4, 2), (2, 3), (3, 5), (5, 2), (2, 6)]
-[(7, 5), (5, 1), (1, 4), (4, 6), (6, 3), (3, 4)]
+[(3, 2), (6, 3), (2, 6), (1, 2), (2, 1), (5, 2)]
+[(5, 7), (1, 5), (4, 1), (6, 4), (3, 6), (4, 3)]
 
-[(7, 5), (5, 1), (1, 4), (4, 6), (6, 3), (3, 4)]
-[(2, 3), (3, 6), (6, 2), (2, 1), (1, 2), (2, 5)]
+[(5, 7), (1, 5), (4, 1), (6, 4), (3, 6), (4, 3)]
+[(4, 2), (2, 4), (3, 2), (5, 3), (2, 5), (6, 2)]
 
-[(2, 3), (3, 6), (6, 2), (2, 1), (1, 2), (2, 5)]
-[(4, 1), (1, 4), (4, 3), (3, 5), (5, 6), (6, 4)]
+[(4, 2), (2, 4), (3, 2), (5, 3), (2, 5), (6, 2)]
+[(3, 1), (5, 3), (6, 5), (1, 6), (4, 1), (1, 4)]
 
-[(4, 1), (1, 4), (4, 3), (3, 5), (5, 6), (6, 4)]
-[(7, 6), (6, 5), (5, 2), (2, 1), (1, 3), (3, 7)]
+[(3, 1), (5, 3), (6, 5), (1, 6), (4, 1), (1, 4)]
+[(6, 7), (4, 6), (2, 4), (5, 2), (3, 5), (7, 3)]
 
 :::::::::::::::: ID's :::::::::::::::::
-[26, 34, 18, 6, 30, 27]
-[25, 35, 0, 10, 7, 14]
-[22, 20, 24, 17, 31, 11]
-[5, 19, 8, 3, 23, 32]
-[4, 13, 28, 15, 33, 21]
 [2, 16, 12, 9, 29, 1]
+[4, 13, 28, 15, 33, 21]
+[5, 19, 8, 3, 23, 32]
+[22, 20, 24, 17, 31, 11]
+[25, 35, 0, 10, 7, 14]
+[26, 34, 18, 6, 30, 27]
 ========== SOLUTION PRINTED ============
 ========== PRINTING SOLUTION ============
-[(7, 1), (1, 6), (6, 4), (4, 5), (5, 4), (4, 7)]
-[(3, 4), (4, 2), (2, 3), (3, 2), (2, 6), (6, 3)]
+[(1, 7), (2, 1), (7, 2), (2, 7), (4, 2), (7, 4)]
+[(3, 6), (4, 3), (5, 4), (3, 5), (1, 3), (6, 1)]
 
-[(3, 4), (4, 2), (2, 3), (3, 2), (2, 6), (6, 3)]
-[(5, 1), (1, 5), (5, 6), (6, 1), (1, 5), (5, 1)]
+[(3, 6), (4, 3), (5, 4), (3, 5), (1, 3), (6, 1)]
+[(5, 4), (2, 5), (1, 2), (6, 1), (4, 6), (5, 4)]
 
-[(5, 1), (1, 5), (5, 6), (6, 1), (1, 5), (5, 1)]
-[(2, 6), (6, 3), (3, 4), (4, 2), (2, 3), (3, 2)]
+[(5, 4), (2, 5), (1, 2), (6, 1), (4, 6), (5, 4)]
+[(6, 2), (3, 6), (4, 3), (2, 4), (3, 2), (2, 3)]
 
-[(2, 6), (6, 3), (3, 4), (4, 2), (2, 3), (3, 2)]
-[(4, 5), (5, 2), (2, 1), (1, 6), (6, 4), (4, 5)]
+[(6, 2), (3, 6), (4, 3), (2, 4), (3, 2), (2, 3)]
+[(1, 5), (5, 1), (6, 5), (1, 6), (5, 1), (1, 5)]
 
-[(4, 5), (5, 2), (2, 1), (1, 6), (6, 4), (4, 5)]
-[(6, 3), (3, 4), (4, 5), (5, 3), (3, 1), (1, 6)]
+[(1, 5), (5, 1), (6, 5), (1, 6), (5, 1), (1, 5)]
+[(4, 3), (2, 4), (3, 2), (2, 3), (6, 2), (3, 6)]
 
-[(6, 3), (3, 4), (4, 5), (5, 3), (3, 1), (1, 6)]
-[(7, 1), (1, 2), (2, 7), (7, 2), (2, 4), (4, 7)]
+[(4, 3), (2, 4), (3, 2), (2, 3), (6, 2), (3, 6)]
+[(1, 7), (6, 1), (4, 6), (5, 4), (4, 5), (7, 4)]
 
 :::::::::::::::: ID's :::::::::::::::::
-[27, 14, 11, 32, 21, 1]
-[30, 7, 31, 23, 33, 29]
-[6, 10, 17, 3, 15, 9]
-[18, 0, 24, 8, 28, 12]
-[34, 35, 20, 19, 13, 16]
 [26, 25, 22, 5, 4, 2]
+[34, 35, 20, 19, 13, 16]
+[18, 0, 24, 8, 28, 12]
+[6, 10, 17, 3, 15, 9]
+[30, 7, 31, 23, 33, 29]
+[27, 14, 11, 32, 21, 1]
+========== SOLUTION PRINTED ============
+========== PRINTING SOLUTION ============
+[(3, 7), (5, 3), (2, 5), (4, 2), (6, 4), (7, 6)]
+[(4, 1), (1, 4), (6, 1), (5, 6), (3, 5), (1, 3)]
+
+[(4, 1), (1, 4), (6, 1), (5, 6), (3, 5), (1, 3)]
+[(2, 6), (5, 2), (3, 5), (2, 3), (4, 2), (2, 4)]
+
+[(2, 6), (5, 2), (3, 5), (2, 3), (4, 2), (2, 4)]
+[(3, 4), (6, 3), (4, 6), (1, 4), (5, 1), (7, 5)]
+
+[(3, 4), (6, 3), (4, 6), (1, 4), (5, 1), (7, 5)]
+[(2, 5), (1, 2), (2, 1), (6, 2), (3, 6), (2, 3)]
+
+[(2, 5), (1, 2), (2, 1), (6, 2), (3, 6), (2, 3)]
+[(6, 4), (5, 6), (3, 5), (4, 3), (1, 4), (4, 1)]
+
+[(6, 4), (5, 6), (3, 5), (4, 3), (1, 4), (4, 1)]
+[(3, 7), (1, 3), (2, 1), (5, 2), (6, 5), (7, 6)]
+
+:::::::::::::::: ID's :::::::::::::::::
+[27, 30, 6, 18, 34, 26]
+[14, 7, 10, 0, 35, 25]
+[11, 31, 17, 24, 20, 22]
+[32, 23, 3, 8, 19, 5]
+[21, 33, 15, 28, 13, 4]
+[1, 29, 9, 12, 16, 2]
 ========== SOLUTION PRINTED ============
 # solutions: 4
-started at: 2011-03-16 16:41:56.489000
-ended at: 2011-03-16 16:48:55.735000
+started at: 2011-03-18 18:24:43.070000
+ended at: 2011-03-18 18:32:43.577000

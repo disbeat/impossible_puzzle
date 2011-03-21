@@ -1,12 +1,12 @@
-LEFT = 0
-DOWN = 1
-RIGHT = 2
-UP = 3
+UP = 0
+RIGHT = 1
+DOWN = 2
+LEFT = 3
 
 UP_LEFT = 0
-DOWN_LEFT = 1
+UP_RIGHT = 1
 DOWN_RIGHT = 2
-UP_RIGHT = 3
+DOWN_LEFT = 3
 
 class Piece( object ):
 	''' Class that represents a puzzle piece. It has its contents in self.parts. One can request sides or corners using the above directions. '''
@@ -65,6 +65,7 @@ def test():
 	p = Piece( [0, 1, 2, 3], 0 )
 	
 	print p.sides()
+	print p.corners()
 	
 	p.rotate(2)
 	
